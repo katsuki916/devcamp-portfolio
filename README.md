@@ -22,3 +22,19 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+> ポートフォリオ作成
+
+### Features
+- Real time chat
+- Blog
+- Portfolio
+- Drag and drop interface
+
+
+```ruby
+def my great method 
+  puts "here it is"
+end
+```
+
